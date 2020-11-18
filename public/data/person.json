@@ -1,0 +1,29 @@
+[{
+        "name": "lihua",
+        "header_url": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+        "role": "staff",
+        "account": "12345671",
+        "password": "goodjob"
+    },
+    {
+        "name": "peiyuan",
+        "header_url": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+        "role": "manager",
+        "account": "12345672",
+        "password": "goodjob"
+    },
+    {
+        "name": "lingfeng",
+        "header_url": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+        "role": "administrator",
+        "account": "12345673",
+        "password": "goodjob"
+    },
+    {
+        "name": "weihao",
+        "header_url": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+        "role": "staff",
+        "account": "12345674",
+        "password": "goodjob"
+    }
+]
